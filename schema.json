@@ -12,22 +12,29 @@
                 "type": "object",
                 "properties": {
                     "name": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Name of the wallpaper"
                     },
                     "description": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Description of the wallpaper"
                     },
                     "url": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Download link of the wallpaper"
                     },
                     "preview": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Preview link of the wallpaper"
                     },
                     "preview_device": {
-                        "type": "integer"
+                        "type": "integer",
+                        "enum": [1, 2],
+                        "description": "The device where the preview was recorded on: 1 for iPhone, 2 for iPad"
                     },
                     "authors": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Authors who created the wallpaper"
                     },
                     "tags": {
                         "type": "array",
@@ -63,22 +70,29 @@
                 "type": "object",
                 "properties": {
                     "name": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Name of the wallpaper"
                     },
                     "description": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Description of the wallpaper"
                     },
                     "url": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Download link of the wallpaper"
                     },
                     "preview": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Preview link of the wallpaper"
                     },
                     "preview_device": {
-                        "type": "integer"
+                        "type": "integer",
+                        "enum": [1, 2],
+                        "description": "The device where the preview was recorded on: 1 for iPhone, 2 for iPad"
                     },
                     "authors": {
-                        "type": "string"
+                        "type": "string",
+                        "description": "Authors who created the wallpaper"
                     },
                     "tags": {
                         "type": "array",
