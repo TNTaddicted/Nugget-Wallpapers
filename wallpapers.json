@@ -143,7 +143,7 @@
       "url": "wallpapers/custom/iPhone15SeaGlass.tendies",
       "preview": "previews/custom/iPhone15SeaGlass.png",
       "preview_device": 2,
-      "authors": "@klaus.peter93",
+      "authors": "@applintrnl",
       "tags": ["animated", "addsToGallery", "bundle", "iPhone"]
     },
     {
@@ -152,17 +152,17 @@
       "url": "wallpapers/custom/SpinningGear.tendies",
       "preview": "previews/custom/SpinningGear.mp4",
       "preview_device": 1,
-      "authors": "@klaus.peter93",
+      "authors": "@applintrnl",
       "tags": ["animated", "addsToGallery", "iPhone"]
     },
     {
-      "name": "iPhone 15 Pro Titanium Green",
-      "description": "The 15 Pro wallpaper in a stunning new color!",
-      "url": "wallpapers/custom/iPhone15ProTitaniumGreen.tendies",
-      "preview": "previews/custom/iPhone15ProTitaniumGreen.png",
-      "preview_device": 1,
-      "authors": "@klaus.peter93",
-      "tags": ["animated", "addsToGallery", "iPhone"]
+      "name": "15 Pro Color Collection",
+      "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
+      "url": "wallpapers/custom/iPhone15ProColorCollection.tendies",
+      "preview": "previews/custom/iPhone15ProColorCollection.png",
+      "preview_device": 2,
+      "authors": "@applintrnl",
+      "tags": ["animated", "addsToGallery", "iPhone", "bundle"]
     },
     {
       "name": "🗿",
