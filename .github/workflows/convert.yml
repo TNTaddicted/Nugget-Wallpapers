@@ -3,8 +3,8 @@ name: Convert Videos to GIFs
 on:
   push:
     paths:
-      - 'previews/**/*.mp4'
-      - 'previews/**/*.mov'
+      - 'previews/**/videos/*.mp4'
+      - 'previews/**/videos/*.mov'
     branches:
       - dev
   workflow_dispatch:
@@ -23,19 +23,26 @@ jobs:
         id: convert
         run: |
           found_videos=false
-          for video in previews/**/*.{mp4,mov}; do
+          for video in previews/**/videos/*.{mp4,mov}; do
             if [[ -f "$video" ]]; then
-              found_videos=true
-              output_dir="$(dirname "$video")/gifs"
+              base_dir="$(dirname "$(dirname "$video")")"
+              output_dir="${base_dir}/gifs"
               mkdir -p "$output_dir"
               filename=$(basename "$video")
               filename_noext="${filename%.*}"
+              output_gif="${output_dir}/${filename_noext}.gif"
               
-              echo "Converting $video to GIF..."
-              ffmpeg -i "$video" \
-                -vf "fps=15,scale=320:-1:flags=lanczos" \
-                -c:v gif \
-                "${output_dir}/${filename_noext}.gif"
+              # Only convert if GIF doesn't exist
+              if [[ ! -f "$output_gif" ]]; then
+                found_videos=true
+                echo "Converting $video to GIF..."
+                ffmpeg -i "$video" \
+                  -vf "fps=15,scale=320:-1:flags=lanczos" \
+                  -c:v gif \
+                  "$output_gif"
+              else
+                echo "Skipping $video - GIF already exists"
+              fi
             fi
           done
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
