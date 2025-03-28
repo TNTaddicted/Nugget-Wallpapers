@@ -235,6 +235,15 @@
       "preview_device": 1,
       "authors": "@kukuruzka165",
       "tags": ["animated", "addsToGallery", "iPhone"]
+    },
+    {
+      "name": "Swelvy",
+      "description": "Assets taken from Geode SDK.",
+      "url": "wallpapers/custom/Swelvy.tendies",
+      "preview": "previews/custom/gifs/Swelvy.gif",
+      "preview_device": 1,
+      "authors": "@anhnguyenlost13",
+      "tags": ["animated", "addsToGallery", "iPhone"]
     }
   ],
   "default": [
