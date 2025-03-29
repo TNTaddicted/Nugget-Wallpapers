@@ -93,6 +93,15 @@
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     },
     {
+      "name": "MarioYoshi",
+      "description": "A wallpaper based on Super Mario with Yoshi!",
+      "url": "wallpapers/custom/MarioYoshi.tendies",
+      "preview": "previews/custom/gifs/MarioYoshi.gif",
+      "preview_device": 1,
+      "authors": "@jordrixx",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
       "name": "Tinted Cubes",
       "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
       "url": "wallpapers/custom/TintedCubes.tendies",

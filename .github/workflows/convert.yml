@@ -16,7 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Cache FFmpeg
+        id: cache-ffmpeg
+        uses: actions/cache@v3
+        with:
+          path: /usr/bin/ffmpeg
+          key: ${{ runner.os }}-ffmpeg
+
       - name: Install FFmpeg
+        if: steps.cache-ffmpeg.outputs.cache-hit != 'true'
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Convert videos to GIFs
