@@ -308,9 +308,27 @@
       "preview_device": 4
     },
     {
+      "name": "iOS 16",
+      "url": "wallpapers/default/iOS16.tendies",
+      "preview": "previews/default/images/iOS16.png",
+      "preview_device": 4
+    },
+    {
       "name": "iPad Air 4th Gen",
       "url": "wallpapers/default/iPadAirGen4.tendies",
       "preview": "previews/default/images/iPadAirGen4.png",
+      "preview_device": 4
+    },
+    {
+      "name": "iPad Air 5th Gen",
+      "url": "wallpapers/default/iPadAirGen5.tendies",
+      "preview": "previews/default/images/iPadAirGen5.png",
+      "preview_device": 4
+    },
+    {
+      "name": "iPad Air 6th Gen",
+      "url": "wallpapers/default/iPadAirGen6.tendies",
+      "preview": "previews/default/images/iPadAirGen6.png",
       "preview_device": 4
     },
     {
