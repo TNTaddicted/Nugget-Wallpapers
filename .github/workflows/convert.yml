@@ -66,10 +66,11 @@ jobs:
           branch: video-to-gif
           delete-branch: true
 
-      - name: Enable Auto-Merge
-        if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
-        uses: peter-evans/enable-pull-request-automerge@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
-          merge-method: squash
+      # TODO: Fix this
+      # - name: Enable Auto-Merge
+      #   if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
+      #   uses: peter-evans/enable-pull-request-automerge@v2
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
+      #     merge-method: squash
