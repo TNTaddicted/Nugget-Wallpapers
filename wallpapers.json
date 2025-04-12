@@ -461,7 +461,254 @@
             "url": "wallpapers/custom/wave.tendies",
             "preview": "previews/custom/gifs/screenrecording_03-27-2025_21-04-19_1.gif",
             "preview_device": 1,
+            "authors": "@cgbakery",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Black Goku",
+            "description": "",
+            "url": "wallpapers/custom/BlackGoku.tendies",
+            "preview": "previews/custom/gifs/BlackGoku.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Broken Screen",
+            "description": "YOU BROKE MY SCREEN!",
+            "url": "wallpapers/custom/BrokenScreen.tendies",
+            "preview": "previews/custom/gifs/BrokenScreen.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Desert",
+            "description": "In the desert",
+            "url": "wallpapers/custom/Desert.tendies",
+            "preview": "previews/custom/gifs/Desert.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "FatCat",
+            "description": "A Wallpaper based on a fat cat meme",
+            "url": "wallpapers/custom/FatCat.tendies",
+            "preview": "previews/custom/gifs/FatCat.gif",
+            "preview_device": 1,
+            "authors": "@thefelix32",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Dragon Ball",
+            "description": "A Wallpaper based on Dragonball",
+            "url": "wallpapers/custom/DragonBall.tendies",
+            "preview": "previews/custom/gifs/DragonBall.gif",
+            "preview_device": 1,
+            "authors": "@thefelix324",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Honor Magic V Flip",
+            "description": "",
+            "url": "wallpapers/custom/HonorMagicVFlip.tendies",
+            "preview": "previews/custom/gifs/HonorMagicVFlip.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 Reload (pause menu)",
+            "description": "",
+            "url": "wallpapers/custom/Persona3.tendies",
+            "preview": "previews/custom/gifs/Persona3.gif",
+            "preview_device": 1,
+            "authors": "@bebebole",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Skeleton",
+            "description": "",
+            "url": "wallpapers/custom/Skelet.tendies",
+            "preview": "previews/custom/gifs/Skelet.gif",
+            "preview_device": 1,
+            "authors": "@rezanen",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Stonks Up",
+            "description": "",
+            "url": "wallpapers/custom/StonksUp.tendies",
+            "preview": "previews/custom/gifs/StonksUp.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Stonks Down",
+            "description": "",
+            "url": "wallpapers/custom/StonksDown.tendies",
+            "preview": "previews/custom/gifs/StonksDown.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Black Hole",
+            "description": "",
+            "url": "wallpapers/custom/black_hole_optimized_purple.tendies",
+            "preview": "previews/custom/gifs/black_hole_optimized_purple.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Cat Volleyball",
+            "description": "",
+            "url": "wallpapers/custom/catvolleyball-lite.tendies",
+            "preview": "previews/custom/gifs/catvolleyball-lite.gif",
+            "preview_device": 2,
+            "authors": "@c4ndyf1sh",
+            "tags": [
+                "iPhone",
+                "iPad",
+                "animated",
+                "addsToGallery",
+                "appearanceAware"
+            ]
+        },
+        {
+            "name": "I am in.",
+            "description": "",
+            "url": "wallpapers/custom/i_am_in.tendies",
+            "preview": "previews/custom/gifs/i_am_in.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Neon Lines",
+            "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
+            "url": "wallpapers/custom/neon_lines.tendies",
+            "preview": "previews/custom/gifs/neon_lines.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Orbital v1",
+            "description": "",
+            "url": "wallpapers/custom/orbitalv1.tendies",
+            "preview": "previews/custom/gifs/orbitalv1.gif",
+            "preview_device": 1,
+            "authors": "@luctilus",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Purple wave",
+            "description": "Just a purple wave",
+            "url": "wallpapers/custom/wave.tendies",
+            "preview": "previews/custom/gifs/screenrecording_03-27-2025_21-04-19_1.gif",
+            "preview_device": 1,
             "authors": "cgbakery",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Ubuntu",
+            "description": "",
+            "url": "wallpapers/custom/ubuntu.tendies",
+            "preview": "previews/custom/gifs/ubuntu.gif",
+            "preview_device": 1,
+            "authors": "@mak5er",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Wii boot/home",
+            "description": "",
+            "url": "wallpapers/custom/wiiFIX.tendies",
+            "preview": "previews/custom/gifs/wiiFIX.gif",
+            "preview_device": 1,
+            "authors": "@cgbakery",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Windows 11",
+            "description": "",
+            "url": "wallpapers/custom/windows11.tendies",
+            "preview": "previews/custom/gifs/windows11.gif",
+            "preview_device": 1,
+            "authors": "@mak5er",
             "tags": [
                 "iPhone",
                 "animated",
