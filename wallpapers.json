@@ -429,13 +429,13 @@
         },
         {
             "name": "Animal Crossing Seasons",
-            "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 4 seasonal variants and light/dark modes!\n\nDesigned for iPhone",
+            "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 4 seasonal light/dark variants!",
             "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
             "preview": "previews/custom/gifs/ScreenRecording_04-01-2025_07-20-52_1.gif",
             "preview_device": 1,
             "authors": "@dootskyre",
             "tags": [
-                "iphone",
+                "iPhone",
                 "appearanceAware",
                 "addsToGallery",
                 "animated",
@@ -450,7 +450,7 @@
             "preview_device": 1,
             "authors": "@softminted_",
             "tags": [
-                "iphone",
+                "iPhone",
                 "animated",
                 "addsToGallery"
             ]
@@ -463,7 +463,7 @@
             "preview_device": 1,
             "authors": "cgbakery",
             "tags": [
-                "iphone",
+                "iPhone",
                 "animated",
                 "addsToGallery"
             ]
