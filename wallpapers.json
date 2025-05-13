@@ -926,6 +926,24 @@
             "url": "wallpapers/default/iPhone15Pro.tendies",
             "preview": "previews/default/images/iPhone15Pro.png",
             "preview_device": 4
+        },
+        {
+            "name": "iPhone 16e",
+            "url": "wallpapers/default/iPhone16e.tendies",
+            "preview": "previews/default/images/iPhone16e.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 16",
+            "url": "wallpapers/default/iPhone16.tendies",
+            "preview": "previews/default/images/iPhone16.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 16 Pro (15 Pro or newer required)",
+            "url": "wallpapers/default/iPhone16Pro.tendies",
+            "preview": "previews/default/images/iPhone16Pro.png",
+            "preview_device": 4
         }
     ],
     "template": [
