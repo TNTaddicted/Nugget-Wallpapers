@@ -926,6 +926,45 @@
             ]
         },
         {
+            "name": "Sheikah Slate (Zelda BOTW)",
+            "description": "The Sheikah Slate from BOTW for your iPhone!",
+            "url": "wallpapers/custom/sheikah_slate.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_06-14-2025_08-22-18_1.gif",
+            "preview_device": 1,
+            "authors": "Vioxel",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Sonic's Gang",
+            "description": "Sonic, Knuckles, Amy, and Tails running across your screen!",
+            "url": "wallpapers/custom/sonic_gang_sky_slow.tendies",
+            "preview": "previews/custom/gifs/sonicgang.gif",
+            "preview_device": 1,
+            "authors": "Vioxel",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Whole Lotta Red",
+            "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
+            "url": "wallpapers/custom/wholelottared.tendies",
+            "preview": "previews/custom/gifs/wlr.gif",
+            "preview_device": 1,
+            "authors": "tankhalfempty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
             "name": "Undertale Ruins Scrolling Wallpaper",
             "description": "Ruins, now on your phone!",
             "url": "wallpapers/custom/UndertaleRuins.tendies",
