@@ -1028,6 +1028,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "DVD Screensaver",
+            "description": "It hits the corner!",
+            "url": "wallpapers/custom/DVDcolor.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_07-14-2025_22-38-01_1_1.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude12 on disc",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
