@@ -1080,6 +1080,18 @@
                 "addsToGallery",
                 "animated"
             ]
+        },
+        {
+            "name": "Wooper",
+            "description": "minimalist wooper wallpaper",
+            "url": "wallpapers/custom/woopah_3.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_08-24-2025_02-11-47_1.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude on disc",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
