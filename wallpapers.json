@@ -1270,6 +1270,20 @@
             "url": "wallpapers/default/iPhone 16 Pro.tendies",
             "preview": "previews/default/images/iPhone16Pro.png",
             "preview_device": 2
+        },
+        {
+            "name": "iPhone 17",
+            "description": "Requires iOS 26 RC or newer",
+            "url": "wallpapers/default/iPhone 17.tendies",
+            "preview": "previews/default/images/iPhone17.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 17 Pro",
+            "description": "Requires iOS 26 RC or newer",
+            "url": "wallpapers/default/iPhone 17 Pro.tendies",
+            "preview": "previews/default/images/iPhone17Pro.png",
+            "preview_device": 2
         }
     ],
     "template": [
