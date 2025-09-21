@@ -505,10 +505,10 @@
         ]
     },
     {
-        "name": "15 Pro Color ",
+        "name": "15 Pro Color Collection",
         "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
-        "url": "wallpapers/custom/iPhone15ProColor.tendies",
-        "preview": "previews/custom/images/iPhone15ProColor.png",
+        "url": "wallpapers/custom/iPhone15ProColorCollection.tendies",
+        "preview": "previews/custom/images/iPhone15ProColorCollection.png",
         "preview_device": 4,
         "authors": "@applintrnl",
         "tags": [
@@ -1059,7 +1059,7 @@
     "default": [
   {
       "name": "Default Wallpapers",
-      "description": "Default s wallpapers",
+      "description": "Default Collections wallpapers",
       "url": "wallpapers/default/Defaults.tendies",
       "preview": "previews/default/images/Defaults.png",
       "preview_device": 4
