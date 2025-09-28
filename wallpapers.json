@@ -1132,6 +1132,19 @@
                 "addsToGallery",
                 "animated"
             ]
+        },
+        {
+            "name": "MOJO Carrot",
+            "description": "It uses device motion to look around. Big MOJO! \n(iOS 26+)",
+            "url": "wallpapers/custom/MOJOCARROT.tendies",
+            "preview": "previews/custom/gifs/Screencapture.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "iPhone",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
