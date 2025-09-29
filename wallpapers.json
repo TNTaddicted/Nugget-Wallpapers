@@ -1119,6 +1119,32 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "GitHub",
+            "description": "First wallpaper made in CAPlayground",
+            "url": "wallpapers/custom/GitHub.tendies",
+            "preview": "previews/custom/gifs/wallpaper-demo.gif",
+            "preview_device": 1,
+            "authors": "@enkei64",
+            "tags": [
+                "iPhone",
+                "addsToGallery",
+                "animated"
+            ]
+        },
+        {
+            "name": "MOJO Carrot",
+            "description": "It uses device motion to look around. Big MOJO! \n(iOS 26+)",
+            "url": "wallpapers/custom/MOJOCARROT.tendies",
+            "preview": "previews/custom/gifs/Screencapture.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "iPhone",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
