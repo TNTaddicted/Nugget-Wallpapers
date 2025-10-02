@@ -1027,6 +1027,19 @@
         ]
     },
     {
+        "name": "Solar System",
+        "description": "Sun, earth, and moon.",
+        "url": "wallpapers/custom/SolarSystem.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
+        "tags": [
+            "iPhone",
+            "addsToGallery",
+            "animated"
+        ]
+    },
+    {
         "name": "Niko OneShot",
         "description": "Clean animation of Niko from OneShot!",
         "url": "wallpapers/custom/niko.tendies",
@@ -1053,19 +1066,6 @@
         ]
     },
     {
-        "name": "Solar System",
-        "description": "Sun, earth, and moon.",
-        "url": "wallpapers/custom/SolarSystem.tendies",
-        "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "addsToGallery",
-            "animated"
-        ]
-    },
-    {
         "name": "Super Mario Bros.",
         "description": "Play Super Mario Bros. on your lock screen!",
         "url": "wallpapers/custom/SuperMarioBros.tendies",
@@ -1085,6 +1085,71 @@
         "preview": "previews/custom/gifs/ExplodingColors.gif",
         "preview_device": 1,
         "authors": "@squair.dev",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Gyro Depths",
+        "description": "A wave-based gyro wallpaper! (iOS 26+)",
+        "url": "wallpapers/custom/GyroDepths.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_09-27-2025_13-28-06_1.gif",
+        "preview_device": 2,
+        "authors": "@dootskyre",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Flappy Bird V2",
+        "description": "Now with gyro! (iOS 26RC+)",
+        "url": "wallpapers/custom/FlappyBirdV2.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_09-27-2025_17-58-44_1.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "GitHub",
+        "description": "First wallpaper made in CAPlayground",
+        "url": "wallpapers/custom/GitHub.tendies",
+        "preview": "previews/custom/gifs/wallpaper-demo.gif",
+        "preview_device": 1,
+        "authors": "@enkei64",
+        "tags": [
+            "iPhone",
+            "addsToGallery",
+            "animated"
+        ]
+    },
+    {
+        "name": "MOJO Carrot",
+        "description": "It uses device motion to look around. Big MOJO! \n(iOS 26+)",
+        "url": "wallpapers/custom/MOJOCARROT.tendies",
+        "preview": "previews/custom/gifs/Screencapture.gif",
+        "preview_device": 1,
+        "authors": "@dularkian on GitHub",
+        "tags": [
+            "animated",
+            "iPhone",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Kanye West",
+        "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
+        "url": "wallpapers/custom/kanyewest.tendies",
+        "preview": "previews/custom/gifs/kanyewest.gif",
+        "preview_device": 1,
+        "authors": "retronbv",
         "tags": [
             "iPhone",
             "animated",
