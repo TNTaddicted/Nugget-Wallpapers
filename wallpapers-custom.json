@@ -55,6 +55,20 @@
         ]
     },
     {
+        "name": "Bowser Jr.",
+        "description": "Has a light mode and dark mode",
+        "url": "wallpapers/custom/Bowser-Jr-.tendies",
+        "preview": "previews/custom/gifs/BowserJr.gif",
+        "preview_device": 1,
+        "authors": "Aperaine",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery",
+            "appearanceAware"
+        ]
+    },
+    {
         "name": "Autumn City",
         "description": "Autumn themed wallpaper with falling leaves",
         "url": "wallpapers/custom/Autumn.tendies",
@@ -1167,20 +1181,6 @@
             "iPhone",
             "animated",
             "addsToGallery"
-        ]
-    },
-    {
-        "name": "Bowser Jr.",
-        "description": "Has a light mode and dark mode",
-        "url": "wallpapers/custom/Bowser-Jr-.tendies",
-        "preview": "previews/custom/gifs/BowserJr.gif",
-        "preview_device": 1,
-        "authors": "Aperaine",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery",
-            "appearanceAware"
         ]
     }
 ]
