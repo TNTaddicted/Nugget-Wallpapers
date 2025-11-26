@@ -3,7 +3,7 @@
         "name": "Black Hole",
         "description": "Cool, beautiful, and strong.",
         "url": "wallpapers/custom/BlackHole.tendies",
-        "preview": "previews/custom/webm/BlackHole.webm",
+        "preview": "previews/custom/gifs/BlackHole.gif",
         "authors": "@i.mes",
         "tags": [
             "iPhone",
@@ -19,7 +19,7 @@
         "name": "Cat Volleyball",
         "description": "Hapi Hapi Hapi",
         "url": "wallpapers/custom/catvolleyball-lite.tendies",
-        "preview": "previews/custom/webm/catvolleyball-lite.webm",
+        "preview": "previews/custom/gifs/catvolleyball-lite.gif",
         "authors": "@c4ndyf1sh",
         "tags": [
             "iPhone",
@@ -37,7 +37,7 @@
         "name": "Animal Crossing Seasons",
         "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
         "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
-        "preview": "previews/custom/webm/AnimalCrossingSeasons.webm",
+        "preview": "previews/custom/gifs/AnimalCrossingSeasons.gif",
         "authors": "@dootskyre",
         "tags": [
             "iPhone",
@@ -55,7 +55,7 @@
         "name": "Bowser Jr.",
         "description": "Has a light mode and dark mode",
         "url": "wallpapers/custom/Bowser-Jr-.tendies",
-        "preview": "previews/custom/webm/BowserJr.webm",
+        "preview": "previews/custom/gifs/BowserJr.gif",
         "authors": "Aperaine",
         "tags": [
             "iPhone",
@@ -68,7 +68,7 @@
         "name": "Autumn City",
         "description": "Autumn themed wallpaper with falling leaves",
         "url": "wallpapers/custom/AutumnCity.tendies",
-        "preview": "previews/custom/webm/AutumnCity.webm",
+        "preview": "previews/custom/gifs/AutumnCity.gif",
         "authors": "nNPC",
         "tags": [
             "animated",
@@ -80,7 +80,7 @@
         "name": "Flappy Bird",
         "description": "A simple flappy bird game!",
         "url": "wallpapers/custom/FlappyBird.tendies",
-        "preview": "previews/custom/webm/FlappyBird.webm",
+        "preview": "previews/custom/gifs/FlappyBird.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
@@ -92,7 +92,7 @@
         "name": "FrutigerAeroV1",
         "description": "A Wallpaper based on the Frutiger Areo Style",
         "url": "wallpapers/custom/FrutigerAeroV1.tendies",
-        "preview": "previews/custom/webm/FrutigerAeroV1.webm",
+        "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
         "authors": "@devwithoutcod1ng",
         "tags": [
             "iPhone",
@@ -104,7 +104,7 @@
         "name": "Playboi Carti - Die Lit",
         "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
         "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
-        "preview": "previews/custom/webm/PlayboiCarti-DieLit.webm",
+        "preview": "previews/custom/gifs/PlayboiCarti-DieLit.gif",
         "authors": "@tankhalfempty.",
         "tags": [
             "iPhone",
@@ -115,7 +115,7 @@
         "name": "Exploding Colors",
         "description": "Some cool colors exploding on your screen!",
         "url": "wallpapers/custom/ExplodingColors.tendies",
-        "preview": "previews/custom/webm/ExplodingColors.webm",
+        "preview": "previews/custom/gifs/ExplodingColors.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
@@ -127,7 +127,7 @@
         "name": "Gyro Depths",
         "description": "A wave-based gyro wallpaper! (iOS 26+)",
         "url": "wallpapers/custom/GyroDepths.tendies",
-        "preview": "previews/custom/webm/GyroDepths.webm",
+        "preview": "previews/custom/gifs/GyroDepths.gif",
         "authors": "@dootskyre",
         "tags": [
             "iPhone",
@@ -139,7 +139,7 @@
         "name": "Flappy Bird V2",
         "description": "Now with gyro! (iOS 26RC+)",
         "url": "wallpapers/custom/FlappyBirdV2.tendies",
-        "preview": "previews/custom/webm/FlappyBirdV2.webm",
+        "preview": "previews/custom/gifs/FlappyBirdV2.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
@@ -151,7 +151,7 @@
         "name": "GitHub",
         "description": "First wallpaper made in CAPlayground",
         "url": "wallpapers/custom/GitHub.tendies",
-        "preview": "previews/custom/webm/GitHub-wallpaper.webm",
+        "preview": "previews/custom/gifs/GitHub-wallpaper.gif",
         "authors": "@enkei64",
         "tags": [
             "iPhone",
@@ -163,7 +163,7 @@
         "name": "MOJO Carrot",
         "description": "It uses device motion to look around. Big MOJO! \n(iOS 26+)",
         "url": "wallpapers/custom/MOJOCARROT.tendies",
-        "preview": "previews/custom/webm/MOJOCarrot.webm",
+        "preview": "previews/custom/gifs/MOJOCarrot.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -175,7 +175,7 @@
         "name": "Kanye West",
         "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
         "url": "wallpapers/custom/kanyewest.tendies",
-        "preview": "previews/custom/webm/KanyeWest.webm",
+        "preview": "previews/custom/gifs/KanyeWest.gif",
         "authors": "retronbv",
         "tags": [
             "iPhone",
@@ -187,7 +187,7 @@
         "name": "Persona 4 Teddie",
         "description": "Teddie!",
         "url": "wallpapers/custom/TeddieP4Golden.tendies",
-        "preview": "previews/custom/webm/TeddieP4Golden.webm",
+        "preview": "previews/custom/gifs/TeddieP4Golden.gif",
         "authors": "@aaqil.",
         "tags": [
             "iPhone",
@@ -198,7 +198,7 @@
         "name": "Dean Blunt - Zushi",
         "description": "Dragon",
         "url": "wallpapers/custom/DeanBluntZushi.tendies",
-        "preview": "previews/custom/webm/DeanBluntZushi.webm",
+        "preview": "previews/custom/gifs/DeanBluntZushi.gif",
         "authors": "@ok.komo",
         "tags": [
             "iPhone",
@@ -209,7 +209,7 @@
         "name": "Persona 3 FeMC",
         "description": "Persona 3 FeMC menu wallpaper",
         "url": "wallpapers/custom/P3FEMCTheme.tendies",
-        "preview": "previews/custom/webm/P3FEMCTheme.webm",
+        "preview": "previews/custom/gifs/P3FEMCTheme.gif",
         "authors": "Ty and Co.",
         "tags": [
             "iPhone",
@@ -220,7 +220,7 @@
         "name": "Persona 5 Royal",
         "description": "Persona 5 Royal menu wallpaper",
         "url": "wallpapers/custom/P5RTheme.tendies",
-        "preview": "previews/custom/webm/P5RTheme.webm",
+        "preview": "previews/custom/gifs/P5RTheme.gif",
         "authors": "Ty and Co.",
         "tags": [
             "iPhone",
@@ -231,7 +231,7 @@
         "name": "Cubes!",
         "description": "Moving cubes!",
         "url": "wallpapers/custom/Cubes.tendies",
-        "preview": "previews/custom/webm/Cubes.webm",
+        "preview": "previews/custom/gifs/Cubes.gif",
         "authors": "@ok.komo",
         "tags": [
             "iPhone",
@@ -242,7 +242,7 @@
         "name": "AltStore",
         "description": "Yeah... AltStore.",
         "url": "wallpapers/custom/AltStore.tendies",
-        "preview": "previews/custom/webm/AltStore.webm",
+        "preview": "previews/custom/gifs/AltStore.gif",
         "authors": "@ok.komo",
         "tags": [
             "iPhone",
@@ -253,7 +253,7 @@
         "name": "Event Horizon",
         "description": "Just look how beautiful it is.",
         "url": "wallpapers/custom/EventHorizon.tendies",
-        "preview": "previews/custom/webm/EventHorizon.webm",
+        "preview": "previews/custom/gifs/EventHorizon.gif",
         "authors": "@stpotato",
         "tags": [
             "iPhone",
@@ -264,7 +264,7 @@
         "name": "Lofi",
         "description": "Just relax...",
         "url": "wallpapers/custom/Lofi.tendies",
-        "preview": "previews/custom/webm/Lofi.webm",
+        "preview": "previews/custom/gifs/Lofi.gif",
         "authors": "@mightycooldude12",
         "tags": [
             "iPhone",
@@ -275,7 +275,7 @@
         "name": "Mario Gamer",
         "description": "Gamer Mario",
         "url": "wallpapers/custom/MarioGamer.tendies",
-        "preview": "previews/custom/webm/MarioGamer.webm",
+        "preview": "previews/custom/gifs/MarioGamer.gif",
         "authors": "@ip1.1.1.1",
         "tags": [
             "iPhone",
@@ -286,7 +286,7 @@
         "name": "HarmonyOS Emoji",
         "description": "Inspired by the Emoji wallpaper on HarmonyOS",
         "url": "wallpapers/custom/HarmonyOSEmoji.tendies",
-        "preview": "previews/custom/webm/HarmonyOSEmoji.webm",
+        "preview": "previews/custom/gifs/HarmonyOSEmoji.gif",
         "authors": "@yangjiii",
         "tags": [
             "iPhone",
@@ -297,7 +297,7 @@
         "name": "Persona 3 Reload (pause menu)",
         "description": "Your phone is now a game.",
         "url": "wallpapers/custom/Persona3.tendies",
-        "preview": "previews/custom/webm/Persona3.webm",
+        "preview": "previews/custom/gifs/Persona3.gif",
         "authors": "@bebebole",
         "tags": [
             "iPhone",
@@ -308,7 +308,7 @@
         "name": "Wii Homebrew Channel",
         "description": "The Wii Homebrew Channel banner as your wallpaper!",
         "url": "wallpapers/custom/HomebrewChannel.tendies",
-        "preview": "previews/custom/webm/HomebrewChannel.webm",
+        "preview": "previews/custom/gifs/HomebrewChannel.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -321,7 +321,7 @@
         "name": "Wii Homebrew Channel Red",
         "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
         "url": "wallpapers/custom/HomebrewChannelRed.tendies",
-        "preview": "previews/custom/webm/HomebrewChannelRed.webm",
+        "preview": "previews/custom/gifs/HomebrewChannelRed.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -334,7 +334,7 @@
         "name": "WiiBeer",
         "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
         "url": "wallpapers/custom/WiiBeer.tendies",
-        "preview": "previews/custom/webm/WiiBeer.webm",
+        "preview": "previews/custom/gifs/WiiBeer.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -347,7 +347,7 @@
         "name": "Space",
         "description": "The Space!",
         "url": "wallpapers/custom/Space.tendies",
-        "preview": "previews/custom/webm/Space.webm",
+        "preview": "previews/custom/gifs/Space.gif",
         "authors": "@_systemless",
         "tags": [
             "animated",
@@ -360,7 +360,7 @@
         "name": "Among Us",
         "description": "The Space! Wait, what's that?",
         "url": "wallpapers/custom/Amogus.tendies",
-        "preview": "previews/custom/webm/Amogus.webm",
+        "preview": "previews/custom/gifs/Amogus.gif",
         "authors": "@LeminLimez",
         "tags": [
             "animated",
@@ -373,7 +373,7 @@
         "name": "iOS 6 Revamp",
         "description": "Pretend like your phone is on iOS 6 again!",
         "url": "wallpapers/custom/iOS6Revamp.tendies",
-        "preview": "previews/custom/webm/iOS6Revamp.webm",
+        "preview": "previews/custom/gifs/iOS6Revamp.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -385,7 +385,7 @@
         "name": "Minecraft Panorama",
         "description": "A scrolling panorama from Minecraft as your wallpaper!",
         "url": "wallpapers/custom/MCPanorama.tendies",
-        "preview": "previews/custom/webm/MCPanorama.webm",
+        "preview": "previews/custom/gifs/MCPanorama.gif",
         "authors": "@pengubow",
         "tags": [
             "animated",
@@ -398,7 +398,7 @@
         "name": "Sakura Tree",
         "description": "A beautiful Sakura tree with leaves falling!",
         "url": "wallpapers/custom/Sakura.tendies",
-        "preview": "previews/custom/webm/Sakura.webm",
+        "preview": "previews/custom/gifs/Sakura.gif",
         "authors": "@jam_minty",
         "tags": [
             "animated",
@@ -411,7 +411,7 @@
         "name": "Splatoon",
         "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
         "url": "wallpapers/custom/Splatoon-SquidSisters.tendies",
-        "preview": "previews/custom/webm/Splatoon.webm",
+        "preview": "previews/custom/gifs/Splatoon.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -423,7 +423,7 @@
         "name": "Mario Galaxy",
         "description": "A wallpaper based on Super Mario Galaxy!",
         "url": "wallpapers/custom/MarioGalaxy.tendies",
-        "preview": "previews/custom/webm/galaxy.webm",
+        "preview": "previews/custom/gifs/galaxy.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -436,7 +436,7 @@
         "name": "MarioYoshi",
         "description": "A wallpaper based on Super Mario with Yoshi!",
         "url": "wallpapers/custom/MarioYoshi.tendies",
-        "preview": "previews/custom/webm/MarioYoshi.webm",
+        "preview": "previews/custom/gifs/MarioYoshi.gif",
         "authors": "@jordrixx",
         "tags": [
             "animated",
@@ -449,7 +449,7 @@
         "name": "Tinted Cubes",
         "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
         "url": "wallpapers/custom/TintedCubes.tendies",
-        "preview": "previews/custom/webm/cubes.webm",
+        "preview": "previews/custom/gifs/cubes.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -462,7 +462,7 @@
         "name": "Rainbow Sprinkles",
         "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
         "url": "wallpapers/custom/RainbowSprinkles.tendies",
-        "preview": "previews/custom/webm/sprinkles.webm",
+        "preview": "previews/custom/gifs/sprinkles.gif",
         "authors": "@dootskyre",
         "tags": [
             "animated",
@@ -476,7 +476,7 @@
         "name": "Balatro",
         "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
         "url": "wallpapers/custom/BalatroMenu.tendies",
-        "preview": "previews/custom/webm/balatro.webm",
+        "preview": "previews/custom/gifs/balatro.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -488,7 +488,7 @@
         "name": "Boykisser",
         "description": "Boykisser all over your screen",
         "url": "wallpapers/custom/boykisser.tendies",
-        "preview": "previews/custom/webm/boykisser.webm",
+        "preview": "previews/custom/gifs/boykisser.gif",
         "authors": "@ch_eese on Discord",
         "tags": [
             "animated",
@@ -501,7 +501,7 @@
         "name": "iOS Backup Things Logo",
         "description": "iOS Backup Things logo as your wallpaper!",
         "url": "wallpapers/custom/iOSBackupThings.tendies",
-        "preview": "previews/custom/webm/iOSBackupThings.webm",
+        "preview": "previews/custom/gifs/iOSBackupThings.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -513,7 +513,7 @@
         "name": "Snoopy",
         "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
         "url": "wallpapers/custom/Snoopy.tendies",
-        "preview": "previews/custom/webm/Snoopy.webm",
+        "preview": "previews/custom/gifs/Snoopy.gif",
         "authors": "@daredvl",
         "tags": [
             "animated",
@@ -526,7 +526,7 @@
         "name": "Aqua Collection",
         "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
         "url": "wallpapers/custom/AquaCollection.tendies",
-        "preview": "previews/custom/webm/AquaCollection.webm",
+        "preview": "previews/custom/gifs/AquaCollection.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "animated",
@@ -553,7 +553,7 @@
         "name": "SpinningGear",
         "description": "Switchboard real",
         "url": "wallpapers/custom/SpinningGear.tendies",
-        "preview": "previews/custom/webm/SpinningGear.webm",
+        "preview": "previews/custom/gifs/SpinningGear.gif",
         "authors": "@applintrnl",
         "tags": [
             "animated",
@@ -591,7 +591,7 @@
         "name": "Apple Logo",
         "description": "An animated RGB Apple logo for your background!",
         "url": "wallpapers/custom/AppleLogo.tendies",
-        "preview": "previews/custom/webm/AppleLogo.webm",
+        "preview": "previews/custom/gifs/AppleLogo.gif",
         "authors": "@jam_minty",
         "tags": [
             "animated",
@@ -604,7 +604,7 @@
         "name": "iSoda",
         "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
         "url": "wallpapers/custom/iSoda.tendies",
-        "preview": "previews/custom/webm/iSoda.webm",
+        "preview": "previews/custom/gifs/iSoda.gif",
         "authors": "@jam_minty",
         "tags": [
             "animated",
@@ -617,7 +617,7 @@
         "name": "Nexus",
         "description": "A remake of the android nexus wallpaper.",
         "url": "wallpapers/custom/Nexus.tendies",
-        "preview": "previews/custom/webm/Nexus.webm",
+        "preview": "previews/custom/gifs/Nexus.gif",
         "authors": "@bebebole",
         "tags": [
             "animated",
@@ -629,7 +629,7 @@
         "name": "Midnight Brisa",
         "description": "Purple and blue gradient waves.",
         "url": "wallpapers/custom/MidnightBrisa.tendies",
-        "preview": "previews/custom/webm/MidnightBrisa.webm",
+        "preview": "previews/custom/gifs/MidnightBrisa.gif",
         "authors": "@limonetexd",
         "tags": [
             "animated",
@@ -641,7 +641,7 @@
         "name": "Stars",
         "description": "Something with stars.",
         "url": "wallpapers/custom/Stars.tendies",
-        "preview": "previews/custom/webm/Stars.webm",
+        "preview": "previews/custom/gifs/Stars.gif",
         "authors": "@kukuruzka165",
         "tags": [
             "animated",
@@ -653,7 +653,7 @@
         "name": "Swelvy",
         "description": "Assets taken from Geode SDK.",
         "url": "wallpapers/custom/Swelvy.tendies",
-        "preview": "previews/custom/webm/Swelvy.webm",
+        "preview": "previews/custom/gifs/Swelvy.gif",
         "authors": "@anhnguyenlost13",
         "tags": [
             "animated",
@@ -665,7 +665,7 @@
         "name": "Graduation",
         "description": "But he made Graduation!",
         "url": "wallpapers/custom/Graduation.tendies",
-        "preview": "previews/custom/webm/Graduation.webm",
+        "preview": "previews/custom/gifs/Graduation.gif",
         "authors": "@ROWNIE & @Mars",
         "tags": [
             "animated",
@@ -677,7 +677,7 @@
         "name": "Patrick on a Seahorse",
         "description": "Patricc vibing on da seahorse",
         "url": "wallpapers/custom/PatrickSeahorse.tendies",
-        "preview": "previews/custom/webm/PatrickSeahorse.webm",
+        "preview": "previews/custom/gifs/PatrickSeahorse.gif",
         "authors": "@ellibarks",
         "tags": [
             "animated",
@@ -689,7 +689,7 @@
         "name": "Nintendo Switch",
         "description": "You better switch up that attitude or wii are gonna have a problem.",
         "url": "wallpapers/custom/NintendoSwitch.tendies",
-        "preview": "previews/custom/webm/NintendoSwitch.webm",
+        "preview": "previews/custom/gifs/NintendoSwitch.gif",
         "authors": "@c4ndyf1sh",
         "tags": [
             "animated",
@@ -702,7 +702,7 @@
         "name": "Flower Boy",
         "description": "Flower Boy by Tyler, The Creator (2017)",
         "url": "wallpapers/custom/flower_boy_v1.tendies",
-        "preview": "previews/custom/webm/FlowerBoy.webm",
+        "preview": "previews/custom/gifs/FlowerBoy.gif",
         "authors": "@softminted_",
         "tags": [
             "iPhone",
@@ -714,7 +714,7 @@
         "name": "Purple Wave",
         "description": "Just a purple wave",
         "url": "wallpapers/custom/wave.tendies",
-        "preview": "previews/custom/webm/PurpleWave.webm",
+        "preview": "previews/custom/gifs/PurpleWave.gif",
         "authors": "@cgbakery",
         "tags": [
             "iPhone",
@@ -726,7 +726,7 @@
         "name": "Black Goku",
         "description": "Reveal your true powers.",
         "url": "wallpapers/custom/BlackGoku.tendies",
-        "preview": "previews/custom/webm/BlackGoku.webm",
+        "preview": "previews/custom/gifs/BlackGoku.gif",
         "authors": "@yangjiii",
         "tags": [
             "iPhone",
@@ -738,7 +738,7 @@
         "name": "Broken Screen",
         "description": "YOU BROKE MY SCREEN!",
         "url": "wallpapers/custom/BrokenScreen.tendies",
-        "preview": "previews/custom/webm/BrokenScreen.webm",
+        "preview": "previews/custom/gifs/BrokenScreen.gif",
         "authors": "@jam_minty",
         "tags": [
             "iPhone",
@@ -750,7 +750,7 @@
         "name": "Desert",
         "description": "In the desert",
         "url": "wallpapers/custom/Desert.tendies",
-        "preview": "previews/custom/webm/Desert.webm",
+        "preview": "previews/custom/gifs/Desert.gif",
         "authors": "@yangjiii",
         "tags": [
             "iPhone",
@@ -762,7 +762,7 @@
         "name": "FatCat",
         "description": "A Wallpaper based on a fat cat meme",
         "url": "wallpapers/custom/FatCat.tendies",
-        "preview": "previews/custom/webm/FatCat.webm",
+        "preview": "previews/custom/gifs/FatCat.gif",
         "authors": "@thefelix32",
         "tags": [
             "iPhone",
@@ -774,7 +774,7 @@
         "name": "Dragon Ball",
         "description": "A Wallpaper based on Dragonball",
         "url": "wallpapers/custom/Dragonball.tendies",
-        "preview": "previews/custom/webm/Dragonball.webm",
+        "preview": "previews/custom/gifs/Dragonball.gif",
         "authors": "@thefelix324",
         "tags": [
             "iPhone",
@@ -786,7 +786,7 @@
         "name": "Honor Magic V Flip",
         "description": "Cute!",
         "url": "wallpapers/custom/HonorMagicVFlip.tendies",
-        "preview": "previews/custom/webm/HonorMagicVFlip.webm",
+        "preview": "previews/custom/gifs/HonorMagicVFlip.gif",
         "authors": "@yangjiii",
         "tags": [
             "iPhone",
@@ -797,7 +797,7 @@
         "name": "Skeleton",
         "description": "Peace, my friend.",
         "url": "wallpapers/custom/Skelet.tendies",
-        "preview": "previews/custom/webm/Skelet.webm",
+        "preview": "previews/custom/gifs/Skelet.gif",
         "authors": "@rezanen",
         "tags": [
             "iPhone",
@@ -809,7 +809,7 @@
         "name": "Stonks Up",
         "description": "YES!",
         "url": "wallpapers/custom/StonksUp.tendies",
-        "preview": "previews/custom/webm/StonksUp.webm",
+        "preview": "previews/custom/gifs/StonksUp.gif",
         "authors": "@jam_minty",
         "tags": [
             "iPhone",
@@ -821,7 +821,7 @@
         "name": "Stonks Down",
         "description": "NO!",
         "url": "wallpapers/custom/StonksDown.tendies",
-        "preview": "previews/custom/webm/StonksDown.webm",
+        "preview": "previews/custom/gifs/StonksDown.gif",
         "authors": "@jam_minty",
         "tags": [
             "iPhone",
@@ -833,7 +833,7 @@
         "name": "I am in.",
         "description": "$%@!",
         "url": "wallpapers/custom/i_am_in.tendies",
-        "preview": "previews/custom/webm/i_am_in.webm",
+        "preview": "previews/custom/gifs/i_am_in.gif",
         "authors": "@i.mes",
         "tags": [
             "iPhone",
@@ -845,7 +845,7 @@
         "name": "Neon Lines",
         "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
         "url": "wallpapers/custom/neon_lines.tendies",
-        "preview": "previews/custom/webm/neon_lines.webm",
+        "preview": "previews/custom/gifs/neon_lines.gif",
         "authors": "@i.mes",
         "tags": [
             "iPhone",
@@ -857,7 +857,7 @@
         "name": "Orbital",
         "description": "Just like a door.",
         "url": "wallpapers/custom/orbitalv1.tendies",
-        "preview": "previews/custom/webm/orbitalv1.webm",
+        "preview": "previews/custom/gifs/orbitalv1.gif",
         "authors": "@luctilus",
         "tags": [
             "iPhone",
@@ -869,7 +869,7 @@
         "name": "Ubuntu",
         "description": "Linux..?",
         "url": "wallpapers/custom/ubuntu.tendies",
-        "preview": "previews/custom/webm/ubuntu.webm",
+        "preview": "previews/custom/gifs/ubuntu.gif",
         "authors": "@mak5er",
         "tags": [
             "iPhone",
@@ -881,7 +881,7 @@
         "name": "Wii boot/home",
         "description": "*Wii Menu SFX*",
         "url": "wallpapers/custom/wiiFIX.tendies",
-        "preview": "previews/custom/webm/wiiFIX.webm",
+        "preview": "previews/custom/gifs/wiiFIX.gif",
         "authors": "@cgbakery",
         "tags": [
             "iPhone",
@@ -893,7 +893,7 @@
         "name": "Windows 11",
         "description": "Windows Phones are back??",
         "url": "wallpapers/custom/windows11.tendies",
-        "preview": "previews/custom/webm/windows11.webm",
+        "preview": "previews/custom/gifs/windows11.gif",
         "authors": "@mak5er",
         "tags": [
             "iPhone",
@@ -905,7 +905,7 @@
         "name": "Sonic Mania Mirage Saloon",
         "description": "Wallpaper of Mirage Saloon from Sonic Mania\n\nFulfilled suggestion",
         "url": "wallpapers/custom/smania.tendies",
-        "preview": "previews/custom/webm/SonicManiaMirageSaloon.webm",
+        "preview": "previews/custom/gifs/SonicManiaMirageSaloon.gif",
         "authors": "semay",
         "tags": [
             "iPhone",
@@ -917,7 +917,7 @@
         "name": "Persona 5 Menu Wallpaper",
         "description": "Persona fans are gonna love this.",
         "url": "wallpapers/custom/P5Theme.tendies",
-        "preview": "previews/custom/webm/P5Theme.webm",
+        "preview": "previews/custom/gifs/P5Theme.gif",
         "authors": "TY and Co.",
         "tags": [
             "iPhone",
@@ -929,7 +929,7 @@
         "name": "Lil Uzi Vert vs. The World",
         "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
         "url": "wallpapers/custom/Lil_Uzi_Vert_Vs_The_World.tendies",
-        "preview": "previews/custom/webm/Lil_Uzi_Vert_Vs_The_World.webm",
+        "preview": "previews/custom/gifs/Lil_Uzi_Vert_Vs_The_World.gif",
         "authors": "@dularkian on GitHub",
         "tags": [
             "iPhone",
@@ -941,7 +941,7 @@
         "name": "Persona 4 Wallpaper",
         "description": "Looks better with Always On Display (i think).",
         "url": "wallpapers/custom/P4Theme.tendies",
-        "preview": "previews/custom/webm/P4Theme.webm",
+        "preview": "previews/custom/gifs/P4Theme.gif",
         "authors": "TY and Co.",
         "tags": [
             "iPhone",
@@ -954,7 +954,7 @@
         "name": "Persona 3 Classic Wallpaper",
         "description": "This time it\u2019s the classic UI. Not Reload.",
         "url": "wallpapers/custom/P3ClassicTheme.tendies",
-        "preview": "previews/custom/webm/P3ClassicTheme.webm",
+        "preview": "previews/custom/gifs/P3ClassicTheme.gif",
         "authors": "TY and Co.",
         "tags": [
             "iPhone",
@@ -966,7 +966,7 @@
         "name": "Sheikah Slate (Zelda BOTW)",
         "description": "The Sheikah Slate from BOTW for your iPhone!",
         "url": "wallpapers/custom/SheikahSlate.tendies",
-        "preview": "previews/custom/webm/SheikahSlate.webm",
+        "preview": "previews/custom/gifs/SheikahSlate.gif",
         "authors": "Vioxel",
         "tags": [
             "iPhone",
@@ -978,7 +978,7 @@
         "name": "Sonic's Gang",
         "description": "Sonic, Knuckles, Amy, and Tails running across your screen!",
         "url": "wallpapers/custom/SonicsGang.tendies",
-        "preview": "previews/custom/webm/SonicsGang.webm",
+        "preview": "previews/custom/gifs/SonicsGang.gif",
         "authors": "Vioxel",
         "tags": [
             "iPhone",
@@ -990,7 +990,7 @@
         "name": "Whole Lotta Red",
         "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
         "url": "wallpapers/custom/WholeLottaRed.tendies",
-        "preview": "previews/custom/webm/WholeLottaRed.webm",
+        "preview": "previews/custom/gifs/WholeLottaRed.gif",
         "authors": "tankhalfempty",
         "tags": [
             "iPhone",
@@ -1002,7 +1002,7 @@
         "name": "Undertale Ruins Scrolling Wallpaper",
         "description": "Ruins, now on your phone!",
         "url": "wallpapers/custom/UndertaleRuins.tendies",
-        "preview": "previews/custom/webm/UndertaleRuinsScrolling.webm",
+        "preview": "previews/custom/gifs/UndertaleRuinsScrolling.gif",
         "authors": "TY and Co.",
         "tags": [
             "iPhone",
@@ -1014,7 +1014,7 @@
         "name": "Kendrick Lamar: Damn.",
         "description": "DAMN. Kendrick cooked on this one.",
         "url": "wallpapers/custom/DamnByTrinityHades.tendies",
-        "preview": "previews/custom/webm/DamnByTrinityHades.webm",
+        "preview": "previews/custom/gifs/DamnByTrinityHades.gif",
         "authors": "trinityhades",
         "tags": [
             "iPhone",
@@ -1026,7 +1026,7 @@
         "name": "Lumon Run v2",
         "description": "Your outie is scared.",
         "url": "wallpapers/custom/LumonRunv2TrinityHades.tendies",
-        "preview": "previews/custom/webm/LumonRunv2Video.webm",
+        "preview": "previews/custom/gifs/LumonRunv2Video.gif",
         "authors": "trinityhades",
         "tags": [
             "iPhone",
@@ -1038,7 +1038,7 @@
         "name": "Macrodata Refinement",
         "description": "Find the scary numbers.",
         "url": "wallpapers/custom/RefiningWithDoors.tendies",
-        "preview": "previews/custom/webm/RefiningWithDoors.webm",
+        "preview": "previews/custom/gifs/RefiningWithDoors.gif",
         "authors": "trinityhades",
         "tags": [
             "iPhone",
@@ -1050,7 +1050,7 @@
         "name": "Solar System",
         "description": "Sun, earth, and moon.",
         "url": "wallpapers/custom/SolarSystem.tendies",
-        "preview": "previews/custom/webm/SolarSystem.webm",
+        "preview": "previews/custom/gifs/SolarSystem.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
@@ -1062,7 +1062,7 @@
         "name": "Niko OneShot",
         "description": "Clean animation of Niko from OneShot!",
         "url": "wallpapers/custom/niko.tendies",
-        "preview": "previews/custom/webm/niko.webm",
+        "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
@@ -1074,7 +1074,7 @@
         "name": "DVD Screensaver",
         "description": "It hits the corner!",
         "url": "wallpapers/custom/DVDcolor.tendies",
-        "preview": "previews/custom/webm/DVDcolor.webm",
+        "preview": "previews/custom/gifs/DVDcolor.gif",
         "authors": "@mightycooldude12 on disc",
         "tags": [
             "iPhone",
@@ -1086,7 +1086,7 @@
         "name": "Super Mario Bros.",
         "description": "Play Super Mario Bros. on your lock screen!",
         "url": "wallpapers/custom/SuperMarioBros.tendies",
-        "preview": "previews/custom/webm/SuperMarioBros.webm",
+        "preview": "previews/custom/gifs/SuperMarioBros.gif",
         "authors": "@squair.dev",
         "tags": [
             "iPhone",
