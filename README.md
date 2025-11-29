@@ -2,7 +2,7 @@
 The official wallpaper collection repo for [Cowabun.ga/Wallpapers][WallpapersWebsite]!
 
 ## Add your own wallpaper!
-To add your own wallpaper(s), checkout [CONTRIBUTING.md](CONTRIBUTING.md)!
+To add your own wallpaper(s), check out [CONTRIBUTING.md](CONTRIBUTING.md)!
 
 LICENSE: [GPL-3.0](#LICENSE)
 
