@@ -13,6 +13,7 @@ If you want to add your own wallpaper:
 <br>E.g., `MarioGalaxy.tendies` and `MarioGalaxy.mp4`
 5. Add metadata in [wallpapers-custom.json](#wallpapers-custom.json), you can fill in the template below.
 <br>Place the data you filled right **below** `Animal Crossing Seasons` wallpaper.
+<br>**Template** wallpapers can be put at the top instead.
 ```json
 {
     "name": "Your Wallpaper Name Here",
